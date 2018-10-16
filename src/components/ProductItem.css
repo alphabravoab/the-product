@@ -1,0 +1,28 @@
+.ProductItem{
+    height: 500px;
+    width: 25%;
+    background-color: #2c3e50;
+    border-radius: 25px;
+    margin:20px;
+    color: #f3f7f9;
+    margin-left:auto;
+    margin-right:auto;
+    border: 2px solid #202020;
+    
+}
+
+.ProductItempic{
+    width:80%;
+    padding:20px;
+    
+}
+
+.buyButton{
+    margin-top:50px;
+    width:40%;
+    height:50px;
+    background-color:#36c0f1;
+    border-radius: 30px;
+    border: 0;
+    color: #f3f7f9;
+}

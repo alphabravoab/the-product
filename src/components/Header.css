@@ -1,0 +1,28 @@
+.Header{
+    background-color: #2c3e50;
+   
+    color: #f3f7f9;
+    padding: 40px;
+}
+
+.logoBorder{
+    border:5px solid #f3f7f9;
+    margin:20px;
+    width: 40%;
+    margin:auto;
+}
+
+.HeaderPic{
+    padding: 30px;
+    animation: App-logo-spin infinite 10s linear;
+}
+
+
+@keyframes Header-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
