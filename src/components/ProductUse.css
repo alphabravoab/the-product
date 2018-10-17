@@ -1,0 +1,18 @@
+.ProductUse{
+ 
+    background-color: #36c0f1;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.usePic{
+    width:25%;
+    height:25%
+}
+.descr{
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    color:#f4f8f9;
+    margin-bottom: 20px;
+    text-align: left;
+}

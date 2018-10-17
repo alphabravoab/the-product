@@ -1,0 +1,19 @@
+.AboutUs{
+    text-align:left;
+    width:80%;
+    margin:auto;
+    margin-top:30px;
+}
+.aboutPic{
+    width:100%;
+}
+.aboutPerson{
+    width:24%;
+    height:24%;
+    margin:auto;
+}
+
+.thisIsUs{
+    display: flex;
+    margin-top:30px;
+}
